@@ -30,6 +30,7 @@ Intermediate/
 Saved/
 .vscode/
 .idea/
+.uasset
 *.workspace
 *.xcworkspace
 
