@@ -31,6 +31,7 @@ Saved/
 .vscode/
 .idea/
 *.workspace
+*.uasset
 *.xcworkspace
 
 # OS Generated
